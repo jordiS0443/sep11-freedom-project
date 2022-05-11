@@ -9,3 +9,6 @@
 6) After changing to desktop, type: **python3 file-organization-program-beyond-mvp**
 7) Press enter
 8) Follow the steps of the program.
+
+
+## Here's a video demonstration
