@@ -7,7 +7,7 @@ import shutil
 
 
 # tuples of file-extensions 
-pictures = (".png",".jpg")
+pictures = (".png",".jpg",".JPG")
 audio = (".wav",".mp3")
 video = (".mp4",".mov",".AVCHD",".wmv")
 documents = (".pdf",".html",".doc",".docx",".py",".js",".html",".css")
