@@ -1,5 +1,5 @@
 # Python File Organization Program
-### *Note: This program functions properly on MacOs Computers. Do not try on Windows*
+### *Note: This program functions properly only on MacOs Computers. Do not try on Windows*
 
 
 1) Open File-Organization-Program-Beyond-Mvp on Github Repo 
