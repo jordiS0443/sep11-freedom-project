@@ -6,7 +6,7 @@
 3) Right click on page with Python Code and click save as. (Make sure you send the file to the desktop)
 4) Open Terminal 
 5) Type in this command: cd desktop
-6) After changing to desktop, type: **python3 file-organization-program-beyond-mvp**
+6) After changing to desktop, type: **python3 file-organization-program-beyond-mvp.py**
 7) Press enter
 8) Follow the steps of the program.
 
