@@ -13,4 +13,4 @@
 
 
 ## Here's a video to guide you step-by-step:
-(LINK)[https://youtu.be/nXO7irWYnIE]
+[LINK](https://youtu.be/nXO7irWYnIE)
