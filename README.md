@@ -12,3 +12,5 @@
 8) Follow the steps of the program.
 
 
+## Here's a video to guide you step-by-step:
+(LINK)[https://youtu.be/nXO7irWYnIE]
