@@ -10,7 +10,7 @@ import shutil
 pictures = (".png",".jpg",".JPG",".heic")
 audio = (".wav",".mp3")
 video = (".mp4",".mov",".AVCHD",".wmv",".braw",".crm",".CRM",".ari")
-documents = (".pdf",".html",".doc",".docx",".py",".js",".html",".css",".psd")
+documents = (".pdf",".html",".doc",".docx",".py",".js",".html",".css",".psd",".zip")
 
 
 
